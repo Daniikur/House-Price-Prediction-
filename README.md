@@ -54,8 +54,8 @@ streamlit run app.py
 ---
 
 ## 📌 Links
-🔗 GitHub Repository: [House Price Prediction](https://github.com/Daniikur/House-Price-Prediction)
-🔗 Streamlit Documentation: [streamlit.io](https://streamlit.io/)
+🔗 GitHub Repository: [House Price Prediction](https://github.com/Daniikur/House-Price-Prediction-)
+🔗 Streamlit Documentation: [streamlit.io](https://house-price-prediction2.streamlit.app/)
 
 
 📧 **Author:** Kurmanzhan ([GitHub](https://github.com/Daniikur))
